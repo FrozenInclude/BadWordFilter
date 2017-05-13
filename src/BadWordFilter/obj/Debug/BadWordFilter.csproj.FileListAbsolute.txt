@@ -1,0 +1,20 @@
+c:\users\administrator\documents\visual studio 2015\Projects\BadWordFilter\BadWordFilter\bin\Debug\BadWordFilter.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\BadWordFilter\BadWordFilter\bin\Debug\BadWordFilter.exe
+c:\users\administrator\documents\visual studio 2015\Projects\BadWordFilter\BadWordFilter\bin\Debug\BadWordFilter.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\BadWordFilter\BadWordFilter\obj\Debug\BadWordFilter.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\BadWordFilter\BadWordFilter\obj\Debug\BadWordFilter.exe
+c:\users\administrator\documents\visual studio 2015\Projects\BadWordFilter\BadWordFilter\obj\Debug\BadWordFilter.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\BadWordFilter\BadWordFilter\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\BadWordFilter\BadWordFilter\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\BadWordFilter\BadWordFilter\bin\Debug\MySql.Data.xml
+C:\Users\Administrator\documents\visual studio 2015\Projects\BadWordFilter\BadWordFilter\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Administrator\Desktop\BadWordFilter\BadWordFilter\src\BadWordFilter\bin\Debug\BadWordFilter.exe.config
+C:\Users\Administrator\Desktop\BadWordFilter\BadWordFilter\src\BadWordFilter\obj\Debug\BadWordFilter.exe
+C:\Users\Administrator\Desktop\BadWordFilter\BadWordFilter\src\BadWordFilter\obj\Debug\BadWordFilter.pdb
+C:\Users\Administrator\Desktop\BadWordFilter\BadWordFilter\src\BadWordFilter\bin\Debug\BadWordFilter.exe
+C:\Users\Administrator\Desktop\BadWordFilter\BadWordFilter\src\BadWordFilter\bin\Debug\BadWordFilter.pdb
+C:\Users\Administrator\Desktop\BadWordFilter\BadWordFilter\src\BadWordFilter\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\BadWordFilter\BadWordFilter\src\BadWordFilter\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Administrator\Desktop\BadWordFilter\BadWordFilter\src\BadWordFilter\bin\Debug\MySql.Data.xml
+C:\Users\Administrator\Desktop\BadWordFilter\BadWordFilter\src\BadWordFilter\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Administrator\Desktop\BadWordFilter\BadWordFilter\src\BadWordFilter\obj\Debug\BadWordFilter.csprojResolveAssemblyReference.cache
