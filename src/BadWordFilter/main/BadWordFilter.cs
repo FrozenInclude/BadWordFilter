@@ -71,19 +71,22 @@ namespace BadWordFilter
             {
                 Parallel.ForEach(욕설감지리스트, (kv) =>
                 {
-                    if (!badWordsUsed.Contains(kv.Value.Item1))
-                    {
-                        string s = kv.Key;
-                        double d = needleman.GetSimilarity(origin, s) * 100;
-                        int percent = Convert.ToInt32(d);
-                        Console.WriteLine($"{kv.Key}와 {percent}% 일치합니다.   ({origin})<==>({s})");
-                        if (percent >= rate)
+               
+                        if (!badWordsUsed.Contains(kv.Value.Item1))
                         {
-                            badWordsUsed.Add(kv.Value.Item1); success = true;
+                            string s = kv.Key;
+                            double d = needleman.GetSimilarity(origin, s) * 100;
+                            int percent = Convert.ToInt32(d);
+                            Console.WriteLine($"{kv.Key}와 {percent}% 일치합니다.   ({origin})<==>({s})");
+                            if (percent >= rate)
+                            {
+                                lock (locks)
+                            {    
+                               badWordsUsed.Add(kv.Value.Item1); success = true;
+                            }
                         }
                     }
                 });
-
             }
             else
             {
